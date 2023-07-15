@@ -1,0 +1,6 @@
+@media only screen and (max-device-width: 414px) {
+    .image-text p{
+        font-size: 12px;
+        left: 10px;
+    }
+}
