@@ -74,3 +74,35 @@
 .promo-content{
   position: relative;
 }
+
+.new-promo-price{
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.was-promo-price{
+  font-size: 1.5rem;
+  color: grey;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-menu-wrapper{
+  height: 100vh;
+}
+
+#myTab{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.nav-item{
+  color: #000;
+  display: flex;
+  letter-spacing: 10px;
+  padding: 0px 35px;
+}
+
+#home-tab, #profile-tab, #contact-tab{
+  background-color: black;
+  color: white;
+}

@@ -1,6 +1,28 @@
 @media only screen and (max-device-width: 414px) {
-    .image-text p{
-        font-size: 12px;
-        left: 10px;
-    }
+  .image-text p {
+    font-size: 12px;
+    left: 10px;
+  }
+
+  .promo-content {
+    position: relative;
+  }
+
+  .new-promo-price {
+     font-size: 10px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .was-promo-price {
+     font-size: 10px;
+    color: grey;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .nav-item{
+    color: #000;
+    display: flex;
+    letter-spacing: 10px;
+    padding: 0px 5px;
+  }
 }
