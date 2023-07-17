@@ -100,6 +100,7 @@
   display: flex;
   letter-spacing: 10px;
   padding: 0px 35px;
+  font-size: 1.3rem;
 }
 
 #home-tab, #profile-tab, #contact-tab{
